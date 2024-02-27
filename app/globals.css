@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.video {
+    position: absolute;
+}
+
+.booka {
+    position: absolute;
+    bottom: 5rem;
+    right: 21rem;
+    z-index: 10;
+}
